@@ -1,0 +1,6 @@
+[submodule "labo-app"]
+	path = labo-app
+	url = https://github.com/SKRNPC/labo-app.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SKRNPC/backend.git
